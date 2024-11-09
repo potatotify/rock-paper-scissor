@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    text-align: center;
+    color: #264653;
+    padding: 20px;
+    background-color: #2a9d8f;
+    font-weight: bold;
+    font-style: italic;
+}
+.bt{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+button{
+    height: 100px;
+    width: 200px;
+    border: none;
+    border-radius: 24px;
+    color: #264653;
+    background-color: #e76f51;
+    font-size: large;
+    font-weight: bold;
+
+    
+}
+#result{
+    color: #264653;
+    text-align: center;
+    background-color: #2a9d8f;
+}
+#humanScore{
+    color: #264653;
+    text-align: center;
+    background-color: #2a9d8f;
+}
+#computerScore{
+    color: #264653;
+    text-align: center;
+    background-color: #2a9d8f;
+}
